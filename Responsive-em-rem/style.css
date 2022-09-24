@@ -1,0 +1,29 @@
+html {
+  font-size: 16px;
+
+}
+
+
+div {
+  height: 300px;
+  width: 25%;
+  font-size: 30px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+#blue {
+  background-color: blue;
+}
+
+#red {
+  background-color: red;
+}
+
+#em {
+  font-size: 2em;
+}
+
+#rem {
+  font-size: 2rem;
+}

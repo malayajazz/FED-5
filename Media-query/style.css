@@ -1,0 +1,33 @@
+body {
+  background-color: green;
+  color: white;
+}
+
+
+/* On screens that are 600px or less, set the background colour to red */
+@media screen and (min-width: 600px) {
+  body {
+    background-color: red;
+  }
+}
+
+/* On screens that are 768px or less, set the background colour to black */
+@media screen and (min-width: 768px) {
+  body {
+  background-color: black;
+}
+}
+
+/* On screens that are 992px or less, set the background colour to orange */
+@media screen and (min-width: 992px){
+  body {
+  background-color: orange;
+}
+}
+
+/* On screens that are 1200px or less, set the background colour to purple */
+@media screen and (min-width: 1200px){
+  body {
+  background-color: purple;
+}
+}
